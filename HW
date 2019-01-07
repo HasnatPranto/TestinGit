@@ -1,0 +1,14 @@
+#include<bits/stdc++.h>
+
+int main()
+{
+  int a,b, sum;
+ 
+ printf("Give two Numbers: ");
+ scanf("%d",&a);
+ scanf("%d",&b);
+ sum=a+b;
+ printf("Sum equals %d\n", sum);
+ 
+ return 0;
+}
